@@ -1,4 +1,4 @@
-# Vnstock - Giải pháp phân tích chứng khoán mở cho người Việt
+# Vnstock - Giải pháp phân tích chứng khoán mở cho người Việt.
 
 [![Vnstock Homepage](https://raw.githubusercontent.com/thinh-vu/vnstock/refs/heads/main/assets/images/vnstock-hero-banner.png)](https://vnstocks.com/)
 
